@@ -1,9 +1,9 @@
 # Metadata
-title: "Witty Banter's Rimworld Buy List"
+title: "Forgetfuls Rimworld Buy List"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list.
 
-baseurl: '/WittysRimworldItemList.github.io' # the subpath of your site, e.g. /blog
+baseurl: '/ForgetfulsItemList.github.io' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'Mrforg3tful'
 github_username: ''
